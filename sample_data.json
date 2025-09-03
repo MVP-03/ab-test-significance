@@ -1,0 +1,9 @@
+{
+  "name": "Q3 Outbound Subject Line Test",
+  "metric": "reply_rate",
+  "variants": [
+    { "name": "Control - question subject", "conversions": 48, "n": 420 },
+    { "name": "Variant A - pain point subject", "conversions": 71, "n": 415 },
+    { "name": "Variant B - social proof subject", "conversions": 55, "n": 418 }
+  ]
+}
